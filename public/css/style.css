@@ -175,4 +175,8 @@ body{
         display: none !important;
     }
 }
-
+@media screen  and (max-width:765px){
+    #searchbar{
+        display: none;
+    }
+}
